@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ari!
+# 👋 Hi, I'm Malaka!
 
 🚀 **Senior Software Engineer | Java | Spring Boot | Angular | AWS**
 
@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+- 💼 [LinkedIn](https://linkedin.com/in/malaka-senanayake)
 - 🌐 [Portfolio](https://malakasenanayake.com)
 - ✉️ contact.malaka.senanayake@gmail.com
 
