@@ -19,14 +19,21 @@
 - **Database:** MySQL, PostgreSQL, Oracle DB, MongoDB, CouchDB. 
 - **DevOps & Cloud:** AWS (EC2, S3, Lambda), Docker, CI/CD, Git, linux. 
 - **Desktop Application:** JavaFx, FXML, Java SE.
-- **Tools:** Git, Docker, Jenkins, VS Code, InteliJ idea. 
+- **Tools:** Git, Docker, Jenkins, VS Code, InteliJ idea.
+
+---
+
+### 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalakaSenanayake&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true)
 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/malaka-senanayake)
-- 🌐 [Portfolio](https://malakasenanayake.com)
-- ✉️ contact.malaka.senanayake@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malaka-senanayake)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malakasenanayake.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.malaka.senanayake@gmail.com)
 
 ---
 
