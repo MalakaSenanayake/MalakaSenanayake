@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Ari!
 
-<!--
-**MalakaSenanayake/MalakaSenanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Software Engineer | Java | Spring Boot | Angular | AWS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 💻 7+ years of experience in building scalable enterprise apps  
+- ☁️ Cloud enthusiast working with AWS & microservices  
+- 🌱 Currently exploring **AI integrations** with backend systems  
+- 🎯 Passionate about performance optimization and clean code  
+
+---
+
+### 🧠 Tech Stack
+**Backend:** Java 17, Spring Boot, REST APIs  
+**Frontend:** Angular, TypeScript, HTML, CSS  
+**Database:** MySQL, PostgreSQL  
+**Cloud:** AWS (EC2, S3, Lambda)  
+**Tools:** Git, Docker, Jenkins, VS Code  
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+- 🌐 [Portfolio](https://malakasenanayake.com)
+- ✉️ contact.malaka.senanayake@gmail.com
+
+---
+
+⭐ _“Code is poetry written for machines and read by humans.”_  
