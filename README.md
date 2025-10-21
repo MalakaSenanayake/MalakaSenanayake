@@ -14,12 +14,12 @@
 ---
 
 ### 🧠 Tech Stack
-**Backend:** Java 17, Spring Boot, Python, Node.js, REST APIs.  
-**Frontend:** Angular, TypeScript, HTML, CSS. 
-**Database:** MySQL, PostgreSQL, Oracle DB, MongoDB, CouchDB. 
-**DevOps & Cloud:** AWS (EC2, S3, Lambda), Docker, CI/CD, Git, linux. 
-**Desktop Application:** JavaFx, FXML, Java SE.
-**Tools:** Git, Docker, Jenkins, VS Code, InteliJ idea. 
+- **Backend:** Java 17, Spring Boot, Python, Node.js, REST APIs.  
+- **Frontend:** Angular, TypeScript, HTML, CSS. 
+- **Database:** MySQL, PostgreSQL, Oracle DB, MongoDB, CouchDB. 
+- **DevOps & Cloud:** AWS (EC2, S3, Lambda), Docker, CI/CD, Git, linux. 
+- **Desktop Application:** JavaFx, FXML, Java SE.
+- **Tools:** Git, Docker, Jenkins, VS Code, InteliJ idea. 
 
 ---
 
