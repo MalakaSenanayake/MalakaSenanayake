@@ -13,11 +13,12 @@
 ---
 
 ### 🧠 Tech Stack
-**Backend:** Java 17, Spring Boot, REST APIs  
+**Backend:** Java 17, Spring Boot, Python, Node.js, REST APIs  
 **Frontend:** Angular, TypeScript, HTML, CSS  
-**Database:** MySQL, PostgreSQL  
-**Cloud:** AWS (EC2, S3, Lambda)  
-**Tools:** Git, Docker, Jenkins, VS Code  
+**Database:** MySQL, PostgreSQL, Oracle DB, MongoDB, CouchDB  
+**DevOps & Cloud:** AWS (EC2, S3, Lambda), Docker, CI/CD, Git, linux 
+**Desktop Application:** JavaFx, FXML, Java SE
+**Tools:** Git, Docker, Jenkins, VS Code, InteliJ idea 
 
 ---
 
@@ -28,4 +29,4 @@
 
 ---
 
-⭐ _“Code is poetry written for machines and read by humans.”_  
+⭐ _“Clean code, calm mind.”_  
